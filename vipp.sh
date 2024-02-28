@@ -7,7 +7,7 @@
     swapon /swapfile >/dev/null 2>&1
     sed -i '$ i\/swapfile      swap swap   defaults    0 0' /etc/fstab
     
-# // script credit by AndyYuda
+# // script credit by CANDRA
 # // ini adalah script autoinstall ssh multiport untuk instalasi vpn server dan tunneling service
 ### System Information
 TANGGAL=$(date '+%Y-%m-%d')
